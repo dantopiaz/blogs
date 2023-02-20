@@ -3,7 +3,7 @@ name: "dantopia"
 title: "dantopia blogs"
 description: "Dantopia stories and articles"
 logo: 'assets/images/dantopia-logo-rounded.png'
-favicon: 'assets/images/favicon.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: ''
