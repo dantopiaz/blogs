@@ -5,9 +5,24 @@
     <description>Dantopia stories and articles</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2023 16:32:42 +0700</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2023 16:32:42 +0700</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2023 16:54:46 +0700</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2023 16:54:46 +0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Welcome to dantopia.vn</title>
+        <description>&lt;p&gt;Welcome to dantopia.vn and its contents those are delivered to you on its blogs.&lt;/p&gt;
+
+&lt;p&gt;Thank you and have a greate start from today!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2023 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/welcome-dantopia-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-dantopia-blog/</guid>
+        
+        
+        <category>dantopia</category>
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -356,29 +371,6 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/press-and-education/</link>
         <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/options-for-creating-new-site-with-jekyll/</guid>
         
         
         <category>Jekyll</category>
