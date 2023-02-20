@@ -1,26 +1,26 @@
 # Site
-name: "dantopia-blogs"
+name: "dantopia"
 title: "dantopia blogs"
 description: "Dantopia stories and articles"
 logo: 'assets/images/dantopia-logo-rounded.png'
 favicon: 'assets/images/dantopia-favicon.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: ''
+mailchimp-list: 'https://dantopia.us11.list-manage.com/subscribe/post?u=6045cdee0aa044c879cf5b18a&amp;id=c51661b0d3&amp;f_id=00ff98e0f0'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  dantino:
+    name: Dantino
+    display_name: Dantino
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: dantpiavn@gmail.com
+    web: https://www.facebook.com/dantopia.vn
+    twitter: https://twitter.com/dantopiavn
+    description: "Hi, I'm Dan Tong (Dantino). I write about technology, innovation, product development and more. "
   john:
     name: John
     display_name: John    
