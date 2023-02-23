@@ -2,18 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dantopia blogs</title>
-    <description>Dantopia stories and articles</description>
+    <description>Trang viết của dantopia.vn</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Feb 2023 18:42:59 +0700</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2023 18:42:59 +0700</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2023 16:11:11 +0700</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2023 16:11:11 +0700</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Welcome to dantopia.vn</title>
-        <description>&lt;p&gt;Welcome to dantopia.vn and its contents those are delivered to you on its blogs.&lt;/p&gt;
+        <title>Chào mừng đến với trang blog của dantopia.vn</title>
+        <description>&lt;h2 id=&quot;lời-chào&quot;&gt;Lời chào&lt;/h2&gt;
+&lt;p&gt;Xin chào, tôi là Tống Vũ Thân Dân, dantopia.vn là trang web cá nhân và trang web này là nơi tôi chia sẻ các kinh nghiệm, kiếm thức,… xoay quanh các chủ đề:&lt;/p&gt;
 
-&lt;p&gt;Thank you and have a greate start from today!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Đổi mới sáng tạo - Innovation&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phát triển sản phẩm (sản phẩm vật lý, hữu hình) - Hardware Product Development&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phát triển doanh nghiệp nhỏ&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;dantopia---định-nghĩa&quot;&gt;dantopia - Định nghĩa:&lt;/h2&gt;
+
+&lt;p&gt;Theo định nghĩa tại &lt;a href=&quot;https://www.urbandictionary.com/author.php?author=Daniel%20Stratosphere&quot;&gt;Urban Dictionary&lt;/a&gt;, dantopia mang ý nghĩa:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A state of happiness, confidence, and inner peace. Often used to describe the emotion felt after some important life event.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tiếng Việt:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Một trạng thái hạnh phúc, tự tin và bình an nội tâm. Thường được dùng để diễn tả cảm xúc sau một số sự kiện quan trọng trong đời.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Với hơn 15 năm kinh nghiệm trong các lĩnh vực công nghệ, đặc biệt phát triển sản phẩm sử dụng công nghệ như vi điện tử, lập trình, vi mạch, phát triển phần mềm, Dân sẽ ghi lại những kinh nghiệm với mong muốn chia sẻ những thất bại (nhiều hơn), và thành công trên chặng đường phát triển sự nghiệp của mình.&lt;/p&gt;
+
+&lt;h2 id=&quot;chúc-mọi-người-thành-công-phát-đạt--bình-an-và-hạnh-phúc&quot;&gt;&lt;strong&gt;Chúc mọi người &lt;span style=&quot;color: red&quot;&gt;thành công&lt;/span&gt;, &lt;span style=&quot;color: orange&quot;&gt;phát đạt&lt;/span&gt; , &lt;span style=&quot;color:green&quot;&gt;bình an&lt;/span&gt; và &lt;span style=&quot;color:violet&quot;&gt;hạnh phúc&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
 </description>
         <pubDate>Mon, 20 Feb 2023 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/welcome-dantopia-blog/</link>
