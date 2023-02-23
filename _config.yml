@@ -1,7 +1,7 @@
 # Site
 name: "Blogs of dantopia"
 title: "dantopia blogs"
-description: "Dantopia stories and articles"
+description: "Trang viết của dantopia.vn"
 logo: 'assets/images/dantopia-logo-rounded.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ""
@@ -14,23 +14,15 @@ permalink: /:title/
 # Authors
 authors:
   dantino:
-    name: Dantino
-    display_name: Dantino
-    avatar: 'assets/images/avatar.png'
+    name: Tống V.T. Dân
+    display_name: Tống V.T. Dân
+    avatar: 'assets/images/dantino-avatar.jpeg'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: dantpiavn@gmail.com
-    web: https://www.facebook.com/dantopia.vn
+    web: https://dantopia.vn
     twitter: https://twitter.com/dantopiavn
-    description: "Hi, I'm Dan Tong (Dantino). I write about technology, innovation, product development and more. "
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Tống V.T. Dân là Cựu Đồng sáng lập và Giám đốc vận hành tại Gremsy J.S.C, Giám đốc và là nhà sáng lập Kodimo Co., Ltd, với kinh nghiệm hơn 16 năm về Kiến trúc phần mềm và các công nghệ hiện đại, bao gồm Phát triển phần cứng. Anh ấy cũng là người đam mê sáng chế và am hiểu các công cụ sáng chế, đổi mới sáng tạo. Anh ấy thích chia sẻ kiến ​​thức của mình vì lợi ích của người khác."
+ 
 
 # Plugins
 plugins:
