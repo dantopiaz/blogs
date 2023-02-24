@@ -6,6 +6,8 @@ categories: [ dantopia ]
 image: assets/images/welcome-dantopia/happiness_is_a_choice.JPG
 featured: true
 hidden: true
+beforetoc: "dantopia = A state of happiness, confidence, and inner peace. Often used to describe the emotion felt after some important life event"
+toc: true
 ---
 ## Lời chào
 Xin chào, tôi là Tống Vũ Thân Dân, dantopia.vn là trang web cá nhân và trang web này là nơi tôi chia sẻ các kinh nghiệm, kiến thức,... xoay quanh các chủ đề:
@@ -29,5 +31,5 @@ Tiếng Việt:
 
 Với hơn 15 năm kinh nghiệm trong các lĩnh vực công nghệ, đặc biệt phát triển sản phẩm sử dụng công nghệ như vi điện tử, lập trình, vi mạch, phát triển phần mềm, Dân sẽ ghi lại những kinh nghiệm với mong muốn chia sẻ những thất bại (nhiều hơn), và thành công trên chặng đường phát triển sự nghiệp của mình.
 
-## **Chúc mọi người <span style="color: red">thành công</span>, <span style="color: orange">phát đạt</span> , <span style="color:green">bình an</span> và <span style="color:violet">hạnh phúc</span>**
+**<span style ="font-size:20px"> Chúc mọi người <span style="color: red">thành công</span>, <span style="color: orange">phát đạt</span> , <span style="color:green">bình an</span> và <span style="color:violet">hạnh phúc</span> </span>**
 
