@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 ## Lời chào
-Xin chào, tôi là Tống Vũ Thân Dân, dantopia.vn là trang web cá nhân và trang web này là nơi tôi chia sẻ các kinh nghiệm, kiếm thức,... xoay quanh các chủ đề:
+Xin chào, tôi là Tống Vũ Thân Dân, dantopia.vn là trang web cá nhân và trang web này là nơi tôi chia sẻ các kinh nghiệm, kiến thức,... xoay quanh các chủ đề:
 
 1. **Đổi mới sáng tạo - Innovation** 
    
